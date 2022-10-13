@@ -1,0 +1,1 @@
+# Hospedagem-de-aplica-es-no-Azure-do-site-est-tico-ao-cluster-Kubernetes
